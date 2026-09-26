@@ -1,0 +1,31 @@
+Order_ID,Date,Region,Category,Product,Sales,Quantity,Profit
+O001,2026-01-05,North,Electronics,Laptop,85000,2,12000
+O002,2026-01-08,South,Furniture,Office Chair,18000,5,4500
+O003,2026-01-12,East,Electronics,Smartphone,45000,3,7500
+O004,2026-01-15,West,Office Supplies,Printer Paper,6500,10,1800
+O005,2026-01-20,North,Furniture,Desk,25000,4,5500
+O006,2026-02-03,South,Electronics,Laptop,90000,2,14000
+O007,2026-02-07,East,Office Supplies,Printer Paper,7200,12,2100
+O008,2026-02-11,West,Electronics,Smartphone,48000,4,8200
+O009,2026-02-16,North,Furniture,Office Chair,22000,6,5600
+O010,2026-02-21,South,Office Supplies,Notebook,5000,20,1500
+O011,2026-03-02,East,Electronics,Laptop,88000,2,13000
+O012,2026-03-06,West,Furniture,Desk,28000,4,6200
+O013,2026-03-10,North,Electronics,Smartphone,52000,4,9000
+O014,2026-03-15,South,Office Supplies,Printer Paper,6800,10,1900
+O015,2026-03-20,East,Furniture,Office Chair,20000,5,5000
+O016,2026-04-04,West,Electronics,Laptop,95000,2,15000
+O017,2026-04-08,North,Office Supplies,Notebook,6200,25,1800
+O018,2026-04-13,South,Furniture,Desk,30000,5,7000
+O019,2026-04-18,East,Electronics,Smartphone,50000,4,8500
+O020,2026-04-24,West,Office Supplies,Printer Paper,7500,12,2200
+O021,2026-05-03,North,Furniture,Office Chair,24000,6,6000
+O022,2026-05-08,South,Electronics,Laptop,92000,2,14500
+O023,2026-05-13,East,Office Supplies,Notebook,5500,22,1600
+O024,2026-05-19,West,Furniture,Desk,32000,5,7600
+O025,2026-05-25,North,Electronics,Smartphone,54000,4,9200
+O026,2026-06-02,South,Office Supplies,Printer Paper,8000,14,2400
+O027,2026-06-08,East,Furniture,Office Chair,23000,6,5800
+O028,2026-06-14,West,Electronics,Laptop,98000,2,16000
+O029,2026-06-20,North,Office Supplies,Notebook,5800,24,1700
+O030,2026-06-27,South,Furniture,Desk,34000,5,8000
