@@ -16,26 +16,6 @@ The project analyzes sales data and presents the results through an interactive 
 - Compare sales and profit
 - Provide interactive filters for data exploration
 
-## 📁 Project Structure
-
-
-CodeAlpha_DataVisualization/
-│
-├── data/
-│   └── sales_data.csv
-│
-├── outputs/
-│   ├── monthly_sales.png
-│   ├── category_sales.png
-│   ├── regional_sales.png
-│   ├── product_sales.png
-│   └── profit_analysis.png
-│
-├── analysis.py
-├── dashboard.py
-├── requirements.txt
-├── README.md
-└── .gitignore
 
 
 🛠️ Technologies Used
